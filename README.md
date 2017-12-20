@@ -1,6 +1,4 @@
-## Welcome to GitHub Pages
 
-Introduce my raspberry pi music set-top box 
 
 ### Markdown
 
